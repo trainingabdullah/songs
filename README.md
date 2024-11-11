@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+/**
+ * @author 'abdullah allhayni  '
+ * @version v1.0
+ * @description Modal show step in error  handling .
+ * @TODO : fix brformance issuo  .
+ * @TODO : Must apply in worrning .
+ * @TODO : fix the style and div .
+ * @TODO : make the code more clear . *
+ * @step :
+ * 1- delet  this  animation to foix prformanse issuo
+ * 2- fix the style and div
+ * 3- Implement the handeleTypeClike logic for title Erorr operations
+ * 4- add modal  show with data from Error  message [*]
+ * 5- Cleane code  and Make it more clear [*]
+ */
