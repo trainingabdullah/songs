@@ -9,7 +9,6 @@
  * 2- Add type and payload 
  * 3- return an action 
  * 4- export *
-
  */
 export const selectSong = (song) => {
   // return an action
