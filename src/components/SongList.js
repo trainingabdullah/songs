@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux"; //reducer
-import { selectSong } from "../actions"; //action
+import { selectSong } from "../actions/index.js"; //action
 
 class SongList extends Component {
   // Directly return the list of songs from render()

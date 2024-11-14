@@ -12,10 +12,10 @@
  */
 import React from "react";
 import ReactDOM from "react-dom/client"; // For React 18
-import App from "./components/App"; // Your main App component
+import App from "./components/App.js"; // Updated import // Your main App component
 import { configureStore } from "@reduxjs/toolkit"; // Redux Toolkit's configureStore method
 import { Provider } from "react-redux"; // To connect Redux store to React
-import reducer from "./reducers"; // Assuming you have a rootReducer defined here
+import reducer from "./reducers/index.js"; // Assuming you have a rootReducer defined here
 
 // Create the Redux store using configureStore
 const store = configureStore({

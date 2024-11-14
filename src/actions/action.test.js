@@ -1,7 +1,6 @@
 // action.test.js
 
-// Import the action to be tested
-import { selectSong } from './index'; // Adjust the path accordingly
+import { selectSong } from './index'; // Adjust the import path accordingly
 
 describe('selectSong action creator', () => {
   it('should create an action to select a song', () => {
